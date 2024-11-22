@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  background: #007bff;
+  padding: 100px 0;
+  color: white;
+}
+
+.hero h1 {
+  font-size: 3rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+}
+
+.hero .btn {
+  margin-top: 20px;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+.container h2 {
+  color: #007bff;
+}
